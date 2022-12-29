@@ -8,6 +8,7 @@ Set additional libraries to usual settings and dependencies.
 
 Set linker dependencies: assimp.lib, opengl32.lib, glfw3.lib along with usual dependencies.
 
+![catacombs](https://user-images.githubusercontent.com/110789514/209882296-22c19a5d-1255-49b0-8191-2b7c8699a602.png)
 
 Instructions:
 
@@ -43,4 +44,4 @@ if stb errors check for duplicate stb.cpp.
 
 7. using freetype, be sure to add freetype.lib, but also go to C++ language properties and add most recent c++ version to use the 2020 libraries. 
 
-![catacombs](https://user-images.githubusercontent.com/110789514/209882296-22c19a5d-1255-49b0-8191-2b7c8699a602.png)
+

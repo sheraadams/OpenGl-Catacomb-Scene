@@ -1,6 +1,6 @@
 # Opengl Catacomb Tunnel
 
-OpenGL Catacomb simulation, runs in Microsoft Visual studio. 
+Runs in Microsoft Visual studio. 
 
 Be sure to set VC++ include and libs directory to usual settings.
 
@@ -30,7 +30,7 @@ enter:
   public:
   #pragma warning(disable: 4996)
 
-6. if using stb_image, add the follwing define below all includes: 
+6. if using stb_image, add the following define below all includes: 
 #define STB_IMAGE_IMPLEMENTATION
 additional helpful macros:
 #define STB_IMAGE_IMPLEMENTATION

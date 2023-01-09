@@ -48,7 +48,7 @@ if stb errors check for duplicate stb.cpp.
 
 ## License
 
-LearnOpenGL:  tutorials and learning resources.
+Credit to LearnOpenGL for camera, shaderss and glfw functions. 
 
 https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 

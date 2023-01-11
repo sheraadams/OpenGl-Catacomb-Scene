@@ -12,7 +12,8 @@ Set additional libraries to usual settings and dependencies.
 
 Set linker dependencies: assimp.lib, opengl32.lib, glfw3.lib along with usual dependencies.
 
-![catacombs](https://user-images.githubusercontent.com/110789514/209882296-22c19a5d-1255-49b0-8191-2b7c8699a602.png)
+
+![Screenshot 2023-01-11 180043](https://user-images.githubusercontent.com/110789514/211936610-3f1fb793-e384-46e2-b9de-c80d3ba3e4ba.png)
 
 1. clone. Settings are MS Visual Studio x64. 
 
@@ -48,6 +49,7 @@ if stb errors check for duplicate stb.cpp.
 
 ## License
 
+Adobe Stock image by TenWit Standard License.
 Credit to LearnOpenGL for camera, shaderss and glfw functions. 
 
 https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md

@@ -49,7 +49,3 @@ DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL.
 Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
 TenWit. (n.d.). Ancient Egyptian hieroglyphics carved on a stone wall. https://as1.ftcdn.net/v2/jpg/03/98/12/30/1000_F_398123053_OTZVcEOx2NmitYsU4Gac13ZsX7scfVPt.jpg
-
-## References
-
-Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-c). https://learnopengl.com/

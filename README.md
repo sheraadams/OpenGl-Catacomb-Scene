@@ -1,4 +1,6 @@
-# Documentation
+# OpenGL Catacombs Scene
+
+## About the Project
 
 This program is a visualization/ simulation program designed to allow an interactive 3D environment. 
 

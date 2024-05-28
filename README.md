@@ -44,7 +44,6 @@ and other macros can be found here: see https://github.com/nothings/stb/blob/mas
 
 
 ## References
-Adams, Aaron (2014). Original Backing Track. https://www.youtube.com/watch?v=v_0w8-0QPhI
 
 DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 

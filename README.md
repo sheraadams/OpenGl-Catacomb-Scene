@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This program is a visualization/ simulation program designed to allow an interactive 3D environment. 
+This program is a visualization/ simulation program designed to allow an interactive 3D environment for educational use. 
 
 Watch the youtube video here: 
 https://www.youtube.com/watch?v=ATzwJx1fmJM
@@ -50,3 +50,13 @@ DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL.
 Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
 TenWit. (n.d.). Ancient Egyptian hieroglyphics carved on a stone wall. https://as1.ftcdn.net/v2/jpg/03/98/12/30/1000_F_398123053_OTZVcEOx2NmitYsU4Gac13ZsX7scfVPt.jpg
+
+## License:
+
+The code is based on various tutorial code from LearnOpenGL.com.
+
+Tutorial code is © Joey DeVries and licensed under the CC BY 4.0 License.
+
+Modifications and additional contributions are © Shera Adams and licensed under the Apache 2.0 License.
+
+Proudly crafted with ❤️ by Shera Adams.
